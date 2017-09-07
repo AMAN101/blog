@@ -1,0 +1,52 @@
+#main h1{
+  font-family:comic sans MS;
+}
+#main h3{
+  font-family:comic sans MS;
+}
+
+#main-box{
+margin:auto;
+  width:1000px;
+}
+#nav-bar a{
+  font-size:17px;
+  font-family:Times New Roman;
+  color:black;
+  padding:10px 10px 10px 0;
+}
+#box{
+    width: 1000px;
+    border: 3px solid black;
+    padding: 25px;
+    margin:10px auto;
+    overflow:auto;
+}
+#heading h2
+{
+   font-family:comic sans MS;
+}
+.right
+{
+float:right;
+}
+
+
+#main-box1{
+  width:1000px;
+  margin:auto;
+}
+#nav a{
+  color:red;
+  float:left;
+  padding:10px 10px 10px 0px;
+  font-size:15px;
+  overflow:auto;
+}
+#box1{
+  margin:25px auto;
+  border:3px solid black;
+  padding:10px;
+  overflow:auto;
+  width:1000px;
+}
